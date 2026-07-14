@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Node / VS Code extension build
+node_modules/
+dist/
+*.vsix
+
+# Vendored native sources (reproduced by scripts/sync-vendor.sh, not checked in)
+native/vendor/
+native/build/
+*.wasm
+
+# Packaged extension + local test fixtures
+*.vsix
+testdata/
+
