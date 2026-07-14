@@ -7,6 +7,7 @@ native/build.sh
 native/README.md
 native/VENDOR_COMMIT
 testdata/**
+PUBLISH.md
 esbuild.js
 tsconfig.json
 .gitignore

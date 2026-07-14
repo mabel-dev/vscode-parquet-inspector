@@ -2,8 +2,9 @@
   "name": "rugo-parquet-inspector",
   "displayName": "Rugo Parquet Inspector",
   "description": "Inspect Parquet files down to row-group and column-chunk level (encoding, compression, stats, bloom filters), powered by Rugo. Also previews CSV/JSONL.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Opteryx",
+  "icon": "images/icon.png",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -15,6 +16,9 @@
   "categories": [
     "Data Science",
     "Visualization"
+  ],
+  "keywords": [
+    "parquet"
   ],
   "activationEvents": [],
   "main": "./dist/extension.js",

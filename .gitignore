@@ -231,3 +231,4 @@ native/build/
 *.vsix
 testdata/
 
+PUBLISH.md
