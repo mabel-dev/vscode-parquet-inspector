@@ -1,0 +1,16 @@
+.vscode/**
+src/**
+scripts/**
+native/vendor/**
+native/src/**
+native/build.sh
+native/README.md
+native/VENDOR_COMMIT
+testdata/**
+esbuild.js
+tsconfig.json
+.gitignore
+eslint.config.js
+**/*.map
+**/.git*
+node_modules/**
